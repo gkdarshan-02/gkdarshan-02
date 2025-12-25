@@ -19,12 +19,54 @@
 </div>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gkdarshan-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gkdarshan-02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkdarshan-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Languages
+![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-grey?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-grey?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-grey?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=postgresql&logoColor=white)
+
+
+## Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-lightgrey?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-lightgrey?style=flat&logo=scikit-learn)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-lightgrey?style=flat&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-lightgrey?style=flat&logo=opencv)
+![React](https://img.shields.io/badge/React-lightgrey?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-lightgrey?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-lightgrey?style=flat&logo=express)
+![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-lightgrey?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-lightgrey?style=flat&logo=streamlit)
+![Jupyter](https://img.shields.io/badge/Jupyter-lightgrey?style=flat&logo=jupyter)
+
+
+## Tools & Platforms
+![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-grey?style=flat&logo=visual-studio-code)
+![Colab](https://img.shields.io/badge/Colab-grey?style=flat&logo=googlecolab)
+![Arduino](https://img.shields.io/badge/Arduino-grey?style=flat&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-grey?style=flat&logo=espressif)
+![macOS](https://img.shields.io/badge/macOS-grey?style=flat&logo=apple)
+![n8n](https://img.shields.io/badge/n8n-workflow-ff6d5a?logo=n8n&logoColor=white)
+![Automation](https://img.shields.io/badge/automation-no--code-blue)
+![AI](https://img.shields.io/badge/AI-GPT--4o-purple)
+
+
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-grey?style=flat&logo=sqlite)
+
+
+## Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-grey?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-grey?style=flat&logo=canva)
+
+
 
 <!-- Snake Game Repo View -->
 
@@ -38,6 +80,6 @@
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gkdarshan-02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
